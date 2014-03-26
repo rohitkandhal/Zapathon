@@ -15,7 +15,7 @@ import util.ProductSearchResponse;
 public class Zap {
 
 	private static final String PRODUCT_SEARCH_URL = "http://api.zappos.com/Product?id=";
-	private static final String API_KEY = "&key=52ddafbe3ee659bad97fcce7c53592916a6bfd73";
+	private static final String API_KEY = "&key=YOUR_KEY";
 
 	public static void main(String[] args) {
 
